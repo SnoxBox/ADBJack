@@ -2,7 +2,7 @@ import shodan
 import sys
 import os
 
-SHODAN_API_KEY = "wlWsFaqM7fCCIEBHf2oEuBVeIeYOOssZ"
+SHODAN_API_KEY = ""
 
 api = shodan.Shodan(SHODAN_API_KEY)
 
